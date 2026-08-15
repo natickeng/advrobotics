@@ -33,9 +33,13 @@ plans to refine.
   `DECISIONS.md`, and `.obsidian/` directly (commit `fab3ed2`, "initial
   setup"), and `origin/main` matched local exactly at that point.
   — 2026-08-15 (later same day): repo made public on GitHub, verified
-  `origin/main` still matches `fab3ed2` via `git fetch`. Nothing has been
-  committed since; see "What's open" below for what's now sitting
-  uncommitted in the working tree.
+  `origin/main` still matches `fab3ed2` via `git fetch`.
+  ~~Nothing has been committed since; see "What's open" below for what's
+  now sitting uncommitted in the working tree.~~ — 2026-08-15 (end of day):
+  Ray committed and pushed everything (`8e980fb`, "now with intial project
+  files") — `.gitignore`, `Technical Information/`, `guides/squarebot/`,
+  and the PROJECT.md/`.obsidian/workspace.json` edits are all in. Verified
+  clean working tree and `origin/main` matching HEAD via `git fetch`.
 - Captured `Red Blue 2627 Calendar.xlsx` into
   `Technical Information/red-blue-2026-2027-schedule-calendar.md` — full
   2026-2027 Red/Blue cycle calendar, holidays/breaks, and per-course due
@@ -78,12 +82,6 @@ plans to refine.
 
 ## What's open
 
-- **Nothing has been committed since `fab3ed2`.** `.gitignore`,
-  `Technical Information/`, and `guides/` are all untracked; PROJECT.md
-  and `.obsidian/workspace.json` are modified-but-uncommitted in the
-  working tree. This has been true across multiple sessions now — Ray has
-  said "we'll fix that later" each time, so it stays deliberately
-  deferred rather than committed automatically.
 - **`.obsidian/workspace.json` is committed here**, unlike `nhsengineering`
   (which gitignores it as per-machine layout — see that repo's DECISIONS #9).
   Still not decided whether advrobotics should follow the same convention;
