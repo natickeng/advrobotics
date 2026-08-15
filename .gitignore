@@ -1,0 +1,6 @@
+# Built guides. The markdown is the source and the build is reproducible,
+# so the PDF/DOCX output doesn't need to be tracked. Pattern uses ** since
+# guides live nested under guides/<unit>/ here (unlike nhsrobotics, which
+# keeps them flat under guides/) — see PROJECT.md.
+guides/**/*.docx
+guides/**/*.pdf

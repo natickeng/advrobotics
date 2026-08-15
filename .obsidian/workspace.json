@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "3d3171460943402e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "guides/squarebot/P03_Program_Movement_Guide.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "P03_Program_Movement_Guide"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "guides/squarebot/P03_Program_Movement_Guide.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "guides/squarebot/P03_Program_Movement_Guide.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "guides/squarebot/P03_Program_Movement_Guide.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,20 +201,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "135d48047ce322ce",
+  "active": "3d3171460943402e",
   "lastOpenFiles": [
-    "builder/node_modules/docx/dist/index.d.ts",
-    "builder/node_modules/docx/dist/index.mjs",
+    "guides/squarebot/P04_Program_Controller_Guide.pdf",
+    "guides/squarebot/P03_Program_Movement_Guide.pdf",
+    "guides/squarebot/P05_Program_Autonomous_Guide.pdf",
+    "guides/squarebot/p03.md",
+    "guides/squarebot/deploy.txt",
+    "guides/squarebot/P02_Build_Guide.pdf",
+    "guides/squarebot/p02.md",
+    "guides/squarebot/p01.md",
+    "guides/squarebot/p05.md",
+    "Technical Information/red-blue-2026-2027-schedule-calendar.md",
+    "guides/squarebot/P01_OnShape_Design_Guide.pdf",
+    "guides/squarebot/p04.md",
+    "guides/squarebot/course.js",
+    "guides/squarebot/images",
+    "guides/squarebot",
+    "guides",
+    "Technical Information/notebooklm-report-the-prizm-tetrix-robotics-encyclopedia-a-guide-for-2026-08-15.md",
+    "README.md",
+    "PROJECT.md",
+    "DECISIONS.md",
+    "Tetrix_PRIZM Reference Guide.md",
     "builder/node_modules/docx/README.md",
-    "builder/node_modules/docx/package.json",
-    "builder/node_modules/@types/node/zlib/iter.d.ts",
-    "builder/node_modules/@types/node/zlib",
-    "builder/node_modules/@types/node/web-globals/url.d.ts",
-    "builder/node_modules/@types/node/web-globals/timers.d.ts",
-    "builder/node_modules/@types/node/web-globals/streams.d.ts",
-    "builder/node_modules/@types/node/web-globals/storage.d.ts",
-    "builder/node_modules/@types/node/web-globals/performance.d.ts",
-    "builder/node_modules/@types/node/web-globals/navigator.d.ts",
     "builder/node_modules/jszip/graph.svg",
     "builder/node_modules/jszip/sponsors.md",
     "builder/node_modules/jszip/CHANGES.md",
@@ -215,17 +238,6 @@
     "builder/node_modules/lie/README.md",
     "builder/node_modules/minimalistic-assert/readme.md",
     "builder/node_modules/lie/license.md",
-    "builder/node_modules/isarray/README.md",
-    "builder/node_modules/xml/readme.md",
-    "builder/node_modules/string_decoder/README.md",
-    "builder/node_modules/undici-types/README.md",
-    "builder/node_modules/core-util-is/README.md",
-    "builder/node_modules/@types/node/README.md",
-    "builder/node_modules/sax/README.md",
-    "builder/node_modules/hash.js/README.md",
-    "builder/node_modules/sax/LICENSE.md",
-    "builder/node_modules/inherits/README.md",
-    "builder/node_modules/process-nextick-args/readme.md",
-    "builder/node_modules/process-nextick-args/license.md"
+    "builder/node_modules/isarray/README.md"
   ]
 }
