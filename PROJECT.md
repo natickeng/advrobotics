@@ -26,7 +26,7 @@ plans to refine.
   `builder/`, see that repo's DECISIONS #11). Pinned here at commit `258989c`
   (its current `master`). `npm install` has been run in `builder/` so it's
   ready to use. Guides live under `guides/<unit>/` (markdown, `images/`,
-  a required `course.js`) and are built by running `../../builder/build-all.sh`
+  a required `course.js`) and are built by running `../../shared/build-all.sh`
   from that folder — see `builder/README.md` for the full contract.
   ~~Commit made locally; not yet pushed (this sandbox has no GitHub push
   credentials).~~ — 2026-08-15: pushed. Ray committed `PROJECT.md`,
