@@ -82,6 +82,14 @@ plans to refine.
 
 ## What's open
 
+- **`builder/` is pinned to the old name/location.** Ray is renaming
+  `rsalemiTeaches/guide-builder` to `vault-builder` under the `natickeng`
+  org and expanding its scope to a general Obsidian workspace-setup tool
+  (school + home), not just PDF guides. As of this note the migration
+  hasn't happened yet — `.gitmodules` and the submodule remote here still
+  point at `https://github.com/rsalemiTeaches/guide-builder.git`. Once
+  the new repo exists, this (and `nhsrobotics`/`nhsengineering`) will need
+  their submodule remotes updated — see DECISIONS #7.
 - **`.obsidian/workspace.json` is committed here**, unlike `nhsengineering`
   (which gitignores it as per-machine layout — see that repo's DECISIONS #9).
   Still not decided whether advrobotics should follow the same convention;
